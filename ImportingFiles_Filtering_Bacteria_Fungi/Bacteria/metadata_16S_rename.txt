@@ -1,0 +1,120 @@
+sample-id	Locality	SampleType	Species	SampleOrigin
+A-AnZa01	Zacapu	Water	A. andersoni	Water
+A-AnZa02	Zacapu	Water	A. andersoni	Water
+A-AnZa03	Zacapu	Water	A. andersoni	Water
+A-AnZa05	Zacapu	Water	A. andersoni	Water
+A-DuPa02	Patzcuaro	Water	A. dumerillii	Water
+A-DuPa03	Patzcuaro	Water	A. dumerillii	Water
+A-TaAl01	Alchichica	Water	A. taylori	Water
+A-TaAl02	Alchichica	Water	A. taylori	Water
+A-TaAl03	Alchichica	Water	A. taylori	Water
+A-TaAl04	Alchichica	Water	A. taylori	Water
+A-TaAl05	Alchichica	Water	A. taylori	Water
+A-X1M01	CDMX	Water	A. mexicanum	Water
+A-X1M02	CDMX	Water	A. mexicanum	Water
+A-X1M03	CDMX	Water	A. mexicanum	Water
+A-X1M04	CDMX	Water	A. mexicanum	Water
+A-X1M05	CDMX	Water	A. mexicanum	Water
+A-X2M01	CDMX	Water	A. mexicanum	Water
+A-X2M02	CDMX	Water	A. mexicanum	Water
+A-X2M03	CDMX	Water	A. mexicanum	Water
+A-X2M04	CDMX	Water	A. mexicanum	Water
+A-X2M05	CDMX	Water	A. mexicanum	Water
+A-X3M01	CDMX	Water	A. mexicanum	Water
+A-X3M02	CDMX	Water	A. mexicanum	Water
+A-X3M03	CDMX	Water	A. mexicanum	Water
+A-X3M04	CDMX	Water	A. mexicanum	Water
+A-X3M05	CDMX	Water	A. mexicanum	Water
+M-AnZa01	Zacapu	Axolotl	A. andersoni	A. andersoni
+M-AnZa02	Zacapu	Axolotl	A. andersoni	A. andersoni
+M-AnZa03	Zacapu	Axolotl	A. andersoni	A. andersoni
+M-AnZa04	Zacapu	Axolotl	A. andersoni	A. andersoni
+M-AnZa05	Zacapu	Axolotl	A. andersoni	A. andersoni
+M-AnZa06	Zacapu	Axolotl	A. andersoni	A. andersoni
+M-AnZa07	Zacapu	Axolotl	A. andersoni	A. andersoni
+M-AnZa08	Zacapu	Axolotl	A. andersoni	A. andersoni
+M-AnZa09	Zacapu	Axolotl	A. andersoni	A. andersoni
+M-AnZa10	Zacapu	Axolotl	A. andersoni	A. andersoni
+M-AnZa11	Zacapu	Axolotl	A. andersoni	A. andersoni
+M-AnZa12	Zacapu	Axolotl	A. andersoni	A. andersoni
+M-AnZa13	Zacapu	Axolotl	A. andersoni	A. andersoni
+M-AnZa14	Zacapu	Axolotl	A. andersoni	A. andersoni
+M-AnZa15	Zacapu	Axolotl	A. andersoni	A. andersoni
+M-AnZa16	Zacapu	Axolotl	A. andersoni	A. andersoni
+M-AnZa17	Zacapu	Axolotl	A. andersoni	A. andersoni
+M-AnZa18	Zacapu	Axolotl	A. andersoni	A. andersoni
+M-AnZa19	Zacapu	Axolotl	A. andersoni	A. andersoni
+M-AnZa20	Zacapu	Axolotl	A. andersoni	A. andersoni
+M-AnZa21	Zacapu	Axolotl	A. andersoni	A. andersoni
+M-AnZa22	Zacapu	Axolotl	A. andersoni	A. andersoni
+M-AnZa23	Zacapu	Axolotl	A. andersoni	A. andersoni
+M-AnZa24	Zacapu	Axolotl	A. andersoni	A. andersoni
+M-AnZa25	Zacapu	Axolotl	A. andersoni	A. andersoni
+M-AnZa26	Zacapu	Axolotl	A. andersoni	A. andersoni
+M-AnZa27	Zacapu	Axolotl	A. andersoni	A. andersoni
+M-AnZa28	Zacapu	Axolotl	A. andersoni	A. andersoni
+M-AnZa29	Zacapu	Axolotl	A. andersoni	A. andersoni
+M-AnZa30	Zacapu	Axolotl	A. andersoni	A. andersoni
+M-DuPa01	Patzcuaro	Axolotl	A. dumerillii	A. dumerillii
+M-DuPa02	Patzcuaro	Axolotl	A. dumerillii	A. dumerillii
+M-DuPa03	Patzcuaro	Axolotl	A. dumerillii	A. dumerillii
+M-DuPa04	Patzcuaro	Axolotl	A. dumerillii	A. dumerillii
+M-DuPa05	Patzcuaro	Axolotl	A. dumerillii	A. dumerillii
+M-DuPa06	Patzcuaro	Axolotl	A. dumerillii	A. dumerillii
+M-DuPa07	Patzcuaro	Axolotl	A. dumerillii	A. dumerillii
+M-DuPa08	Patzcuaro	Axolotl	A. dumerillii	A. dumerillii
+M-DuPa09	Patzcuaro	Axolotl	A. dumerillii	A. dumerillii
+M-DuPa10	Patzcuaro	Axolotl	A. dumerillii	A. dumerillii
+M-DuPa11	Patzcuaro	Axolotl	A. dumerillii	A. dumerillii
+M-DuPa12	Patzcuaro	Axolotl	A. dumerillii	A. dumerillii
+M-DuPa13	Patzcuaro	Axolotl	A. dumerillii	A. dumerillii
+M-TaAl01	Alchichica	Axolotl	A. taylori	A. taylori
+M-TaAl03	Alchichica	Axolotl	A. taylori	A. taylori
+M-TaAl04	Alchichica	Axolotl	A. taylori	A. taylori
+M-TaAl05	Alchichica	Axolotl	A. taylori	A. taylori
+M-TaAl06	Alchichica	Axolotl	A. taylori	A. taylori
+M-TaAl07	Alchichica	Axolotl	A. taylori	A. taylori
+M-TaAl08	Alchichica	Axolotl	A. taylori	A. taylori
+M-TaAl09	Alchichica	Axolotl	A. taylori	A. taylori
+M-TaAl10	Alchichica	Axolotl	A. taylori	A. taylori
+M-TaAl11	Alchichica	Axolotl	A. taylori	A. taylori
+M-TaAl12	Alchichica	Axolotl	A. taylori	A. taylori
+M-TaAl13	Alchichica	Axolotl	A. taylori	A. taylori
+M-TaAl14	Alchichica	Axolotl	A. taylori	A. taylori
+M-TaAl15	Alchichica	Axolotl	A. taylori	A. taylori
+M-TaAl16	Alchichica	Axolotl	A. taylori	A. taylori
+M-TaAl17	Alchichica	Axolotl	A. taylori	A. taylori
+M-TaAl18	Alchichica	Axolotl	A. taylori	A. taylori
+M-TaAl19	Alchichica	Axolotl	A. taylori	A. taylori
+M-TaAl20	Alchichica	Axolotl	A. taylori	A. taylori
+M-TaAl21	Alchichica	Axolotl	A. taylori	A. taylori
+M-TaAl22	Alchichica	Axolotl	A. taylori	A. taylori
+M-TaAl23	Alchichica	Axolotl	A. taylori	A. taylori
+M-TaAl24	Alchichica	Axolotl	A. taylori	A. taylori
+M-MX1M01	CDMX	Axolotl	A. mexicanum	A. mexicanum
+M-MX1M02	CDMX	Axolotl	A. mexicanum	A. mexicanum
+M-MX1M03	CDMX	Axolotl	A. mexicanum	A. mexicanum
+M-MX1M04	CDMX	Axolotl	A. mexicanum	A. mexicanum
+M-MX1M05	CDMX	Axolotl	A. mexicanum	A. mexicanum
+M-MX1M06	CDMX	Axolotl	A. mexicanum	A. mexicanum
+M-MX1M07	CDMX	Axolotl	A. mexicanum	A. mexicanum
+M-MX2M01	CDMX	Axolotl	A. mexicanum	A. mexicanum
+M-MX2M02	CDMX	Axolotl	A. mexicanum	A. mexicanum
+M-MX2M03	CDMX	Axolotl	A. mexicanum	A. mexicanum
+M-MX2M04	CDMX	Axolotl	A. mexicanum	A. mexicanum
+M-MX2M05	CDMX	Axolotl	A. mexicanum	A. mexicanum
+M-MX2M06	CDMX	Axolotl	A. mexicanum	A. mexicanum
+M-MX2M07	CDMX	Axolotl	A. mexicanum	A. mexicanum
+M-MX3M01	CDMX	Axolotl	A. mexicanum	A. mexicanum
+M-MX3M02	CDMX	Axolotl	A. mexicanum	A. mexicanum
+M-MX3M03	CDMX	Axolotl	A. mexicanum	A. mexicanum
+M-MX3M04	CDMX	Axolotl	A. mexicanum	A. mexicanum
+M-MX3M05	CDMX	Axolotl	A. mexicanum	A. mexicanum
+M-MX3M06	CDMX	Axolotl	A. mexicanum	A. mexicanum
+M-MX3M07	CDMX	Axolotl	A. mexicanum	A. mexicanum
+M-MX3M08	CDMX	Axolotl	A. mexicanum	A. mexicanum
+M-MX4M01	CDMX	Axolotl	A. mexicanum	A. mexicanum
+M-MX4M02	CDMX	Axolotl	A. mexicanum	A. mexicanum
+M-MX4M03	CDMX	Axolotl	A. mexicanum	A. mexicanum
+M-MX4M04	CDMX	Axolotl	A. mexicanum	A. mexicanum
+M-MX4M05	CDMX	Axolotl	A. mexicanum	A. mexicanum
